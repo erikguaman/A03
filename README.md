@@ -1,4 +1,6 @@
 Directions:
+  In order to use Webstorm, you first need to download and create an account with Jetbrains, with your school email. Once the applicatioj is downloaded, add your Jet Brains account onto Webstorm and you will be ready to create html files. Then, create a Gitbub account, and connect webstorm to github. Once gitbuh is downloaded go to Webstorm and click on VCS on the top bar. Then click on "get version control" and choose the second option that mentions Gitbuh. Add your github login and now you are connected webstorm to gitbuh. Then, on github, you can start working on your projects by clikcing on the "+" sign on the top right and choose 
+"new repository". You can name the repository any name you want, add a README file and click commit. If you want to to work on your html and css file from webstorm under the same repository, you can go to VCS, click github and choose the repository, and hit clone. 
 
 
 Definitions:
