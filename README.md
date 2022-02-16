@@ -1,7 +1,5 @@
 Directions:
-  In order to use Webstorm, you first need to download and create an account with Jetbrains, with your school email. Once the applicatioj is downloaded, add your Jet Brains account onto Webstorm and you will be ready to create html files. Then, create a Gitbub account, and connect webstorm to github. Once gitbuh is downloaded go to Webstorm and click on VCS on the top bar. Then click on "get version control" and choose the second option that mentions Gitbuh. Add your github login and now you are connected webstorm to gitbuh. Then, on github, you can start working on your projects by clikcing on the "+" sign on the top right and choose 
-"new repository". You can name the repository any name you want, add a README file and click commit. If you want to to work on your html and css file from webstorm under the same repository, you can go to VCS, click github and choose the repository, and hit clone. 
-
+   In order to use Webstorm, you first need to download and create an account with Jetbrains, with your school email. Once the application is downloaded, add your JetBrains account onto Webstorm and you will be ready to create html files. Then, create a Github account, and connect webstorm to github. Once github is downloaded go to Webstorm and click on VCS on the top bar. Then click on "get version control" and choose the second option that mentions Github. Add your github login and now you are connected to webstorm. You can also include Git inside Webstorm. Download Git corresponding to your machine, go to VCS on webstorm and enter the path to the git. Then, on github, you can start working on your projects by clicking on the "+" sign on the top right and choose "new repository". You can name the repository any name you want, click on public, add a README file and click commit. If you want to work on your html and css file from webstorm under the same repository, you can go to VCS, click github and choose the repository, and hit clone. If you want to create a repository from webstorm, you can go to VCS, go to GIT, add the repository name and add the local path. Now, to create a webstorm HTML file, you can simply go to file, hover over new, then select html file. Now you can start writing HTML code. 
 
 Definitions:
 - Branch: it is a set of code changes with a unique name 
@@ -18,3 +16,9 @@ Definitions:
 - Repository: this contains all your files and projects 
 
 
+Link to download webstorm and create account: https://www.jetbrains.com/student/
+Link to download git: https://git-scm.com/downloads
+
+References:
+Chisuano, Mark (2022), "Introduction to Github and Webstorm". Presentation slides. Canvas
+  https://njit.instructure.com/courses/21539/files/3171291?module_item_id=687962
